@@ -1,6 +1,6 @@
 # stringshorten
 
-This project is designed to compress string size leading to compression in data as each character takes fixed bytes in and language . Using this mapping compression can be done without connecting to database , plugins or without using any library and modules . 
+This project is designed to compress string size leading to compression in data as each character takes fixed bytes in any language . Using this mapping compression can be done without connecting to database , plugins or without using any library and modules . 
 
 # Example 
 **Shorten** : - Input - "helloworld"
