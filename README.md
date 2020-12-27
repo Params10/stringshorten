@@ -9,9 +9,9 @@ This project is designed to compress string size leading to compression in data 
 **Expansion** : - Input - " "hMfZ1JJi"
               Output - "helloworld"
               
-**String length reduction : Approximately 82.46% **
+**String length reduction : Approximately 82.46%**
 
-######To install dependencies run : npm install 
+###To install dependencies run : npm install 
 
 # Getting Started with Create React App
 
