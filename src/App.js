@@ -138,7 +138,7 @@ function shorten()
           }
         }
     }
-   var temp1 = convertBase(shortenstring.current.value,25,62);
+   var temp1 = convertBase(shortenstring.current.value,26,62);
    setAnswer(temp1);
 
     console.log(pass);
@@ -153,7 +153,7 @@ function shorten()
   function expand()
 {
        
-   setAnswer(convertBase(shortenstring.current.value,62,25));
+   setAnswer(convertBase(shortenstring.current.value,62,26));
    console.log(answer);
 
   }
